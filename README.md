@@ -1,2 +1,6 @@
-# pcd-aula03
-Aula 3 de Programação para Ciência de Dados
+# PCD - Aula 03
+
+Arquivos da Aula 03: Colab, GitHub e Git.
+
+## Autor
+Matheus Ledur
